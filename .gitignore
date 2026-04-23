@@ -1,0 +1,17 @@
+*.log
+
+__pycache__/
+*.pyс
+.pytest_cache/
+
+venv/
+.env
+
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+.wdm/
+
+*.log
