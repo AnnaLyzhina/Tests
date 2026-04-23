@@ -5,10 +5,10 @@
 ## Что внутри
 
 ### Задача №1. Unit-тесты
-Выбраны 3 задачи из модуля Основы работы с Python:
-- проверка email;
-- сезон года по номеру месяца;
-- стоимость доставки.
+Выбраны 3 задачи из модуля Основы языка программирования Python:
+- проверка email (https://netology.ru/profile/program/py-144/lessons/532908/lesson_items/2884525);
+- сезон года по номеру месяца(https://netology.ru/profile/program/py-144/lessons/532907/lesson_items/2884522);
+- стоимость доставки(https://netology.ru/profile/program/py-144/lessons/532907/lesson_items/2884520).
 
 Файл с функциями:
 - `src/task1_functions.py`

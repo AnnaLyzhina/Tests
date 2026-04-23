@@ -1,8 +1,10 @@
 *.log
 
 __pycache__/
-*.pyс
+*.pyc
 .pytest_cache/
+src/__pycache__/
+tests/__pycache__/
 
 venv/
 .env
@@ -13,5 +15,3 @@ venv/
 Thumbs.db
 
 .wdm/
-
-*.log
